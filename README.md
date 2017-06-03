@@ -16,11 +16,9 @@ Copyright© 2015 Jesús Cuerda Villanueva. Software libre bajo Licencia Pública
     - Ejecución
     - Uso
     - Atajos de Teclado
-
 * [DESARROLLO](https://github.com/Webierta/carfoins#desarrollo)
     - Versiones
     - Reconocimientos
-
 * [LEGAL](https://github.com/Webierta/carfoins#legal)
     - Licencia
     - VDOS Stochastics S.L.
@@ -51,7 +49,7 @@ Te invito a colaborar con un donativo vía PayPal para mantener este programa y 
 * El paquete 'tkinter' para Python. Actualmente se incluye con todas las distribuciones estándar de Python3.x. Este paquete ofrece la interfaz estándar de Python para el conjunto de herramientas gráficas. En Windows ya se instaló cuando instalaste Python 3. Aunque tkinter es parte de la biblioteca estándar de Python, muchas distribuciones linux lo empaquetan separado del paquete principal de Python. Para comprobar si está instalado en tu sistema, desde consola:
 
     $ python3
-    import tkinter
+    \>\>\>import tkinter
 
 Si aparece un mensaje de error, tkinter no está instalado. En los repositorios de la mayoría de distribuciones linux lo encontrarás con el nombre python3-tk.
 
