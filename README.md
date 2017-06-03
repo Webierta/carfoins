@@ -37,7 +37,7 @@ Se agradece cualquier sugerencia, crítica, comentario o aviso de error: http://
 
 Aplicación gratuita y sin publicidad. No se utiliza ningún dato del usuario. Software de código abierto, libre de spyware, malware, virus o cualquier proceso que atente contra tu dispositivo o viole tu privacidad.
 
-Te invito a colaborar con un donativo vía PayPal para mantener este programa y desarrollar nuevas aplicaciones: http://www.carfoins.esy.es/Licencia
+Te invito a colaborar con un [donativo vía PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=986PSAHLH6N4L) para mantener este programa y desarrollar nuevas aplicaciones.
 
 ## AYUDA
 
@@ -194,6 +194,7 @@ En proyecto (mantenimiento prácticamente suspendido):
 ### LICENCIA
 
 Copyright © 2015, Jesús Cuerda Villanueva. All rights reserved.
+
 Licencia Pública General de GNU (GPL) versión 3. Véase el archivo adjunto "LICENSE.txt" o en http://www.gnu.org/licenses/gpl-3.0.txt.
 
 Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA; ni siquiera la garantía implícita de COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.
