@@ -46,10 +46,7 @@ Te invito a colaborar con un donativo vía PayPal para mantener este programa y 
 * Conexión a internet (para añadir fondos y actualizar sus valores).
 * Aplicación multiplataforma. Si bien los requisitos de ejecución son compatibles con distintas plataformas, la aplicación sólo está probada en distintas versiones de Debian, Xubuntu, Manjaro, Windows 7 y Windows 8.1. Se agradecen las aportaciones de todos los que puedan probarla en otros sistemas. Realmente el hábitat natural del software libre son los sistemas abiertos. ¡Te invito a probar linux!
 * Python versión 3.x. Requiere que el sistema tenga instalado Python versión 3.x, disponible en python.org para distintas plataformas: Windows, Linux/UNIX, Mac OS X y otras. Python se encuentra instalado por defecto en la mayoría de sistemas GNU/Linux, si bien en muchas ocasiones se trata de una versión 2.x. La versión 3.x suele estar incluida en los repositorios de casi todas las distribuciones linux, por lo que su instalación es sencilla. Las últimas versiones de Carfoin$ sólo utilizan componentes de la librería estándar de Python, eliminando módulos de terceros.
-* El paquete 'tkinter' para Python. Actualmente se incluye con todas las distribuciones estándar de Python3.x. Este paquete ofrece la interfaz estándar de Python para el conjunto de herramientas gráficas. En Windows ya se instaló cuando instalaste Python 3. Aunque tkinter es parte de la biblioteca estándar de Python, muchas distribuciones linux lo empaquetan separado del paquete principal de Python. Para comprobar si está instalado en tu sistema, desde consola:
-
-    $ python3
-    \>\>\>import tkinter
+* El paquete 'tkinter' para Python. Actualmente se incluye con todas las distribuciones estándar de Python3.x. Este paquete ofrece la interfaz estándar de Python para el conjunto de herramientas gráficas. En Windows ya se instaló cuando instalaste Python 3. Aunque tkinter es parte de la biblioteca estándar de Python, muchas distribuciones linux lo empaquetan separado del paquete principal de Python. Para comprobar si está instalado en tu sistema, desde consola: $ python3, y luego >>>import tkinter
 
 Si aparece un mensaje de error, tkinter no está instalado. En los repositorios de la mayoría de distribuciones linux lo encontrarás con el nombre python3-tk.
 
@@ -107,7 +104,7 @@ La aplicación pretende que todas las funciones y ventanas sean accesibles indis
 
 Prácticamente estable y relativamente libre de errores pero todavía en fase de pruebas para su optimización e incorporación de nuevas funciones. Se agradece la participación de todos los betatesters que quieran probar la aplicación y aportar sus impresiones, comentarios, observaciones críticas o sugerencias que ayuden a mejorarlo. Utiliza el formulario de contacto: carfoins.esy.es/Contacto
 
-En proyecto (prácticamente paralizado):
+En proyecto (mantenimiento prácticamente suspendido):
 
 * Optimización del código.
 * Mejorar sistema de restauración copias de seguridad.
@@ -117,17 +114,11 @@ En proyecto (prácticamente paralizado):
     - en Windows algunos atajos de teclado no funcionan hasta que la ventana recibe el foco con el ratón.
     - en Windows: los botones no cambian de color cuando el ratón pasa sobre ellos.
 
-0.4.6 (abril 2015):
- 
-* Corregidos errores persistentes.
+0.4.6 (abril 2015): Corregidos errores persistentes.
     
-0.4.5 (abril 2015):
-
-* Corregido error de versión anterior que impedía consultar los Fondos.
+0.4.5 (abril 2015): Corregido error de versión anterior que impedía consultar los Fondos.
     
-0.4.4 (abril 2015):
- 
-* Corregido error por el que algunos Fondos no se actualizaban.
+0.4.4 (abril 2015): Corregido error por el que algunos Fondos no se actualizaban.
     
 0.4.3 (abril 2015):
     
