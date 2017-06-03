@@ -6,6 +6,25 @@ CARFOIN$: Gestión de una Cartera de Fondos de Inversión. Visita la [web del pr
 
 Copyright© 2015 Jesús Cuerda Villanueva. Software libre bajo Licencia Pública General de GNU (GPL) versión 3.
 
+## CONTENIDO
+
+* [INFORMACIÓN](https://github.com/Webierta/carfoins#informaci%C3%93n)
+    - Descripción
+    - Autor
+* [AYUDA](https://github.com/Webierta/carfoins#ayuda)
+    - Requisitos del sistema
+    - Ejecución
+    - Uso
+    - Atajos de Teclado
+
+* [DESARROLLO](https://github.com/Webierta/carfoins#desarrollo)
+    - Versiones
+    - Reconocimientos
+
+* [LEGAL](https://github.com/Webierta/carfoins#legal)
+    - Licencia
+    - VDOS Stochastics S.L.
+
 ## INFORMACIÓN
 
 ### DESCRIPCIÓN
@@ -32,11 +51,12 @@ Te invito a colaborar con un donativo vía PayPal para mantener este programa y 
 * El paquete 'tkinter' para Python. Actualmente se incluye con todas las distribuciones estándar de Python3.x. Este paquete ofrece la interfaz estándar de Python para el conjunto de herramientas gráficas. En Windows ya se instaló cuando instalaste Python 3. Aunque tkinter es parte de la biblioteca estándar de Python, muchas distribuciones linux lo empaquetan separado del paquete principal de Python. Para comprobar si está instalado en tu sistema, desde consola:
 
     $ python3
-    >>> import tkinter
+    import tkinter
 
 Si aparece un mensaje de error, tkinter no está instalado. En los repositorios de la mayoría de distribuciones linux lo encontrarás con el nombre python3-tk.
 
 Puedes comprobar si has instalado 'tkinter' correctamente ejecutando cualquiera de estos comandos:
+
     python3 -m tkinter
     tkinter._test()
 
