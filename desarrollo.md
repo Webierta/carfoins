@@ -79,7 +79,7 @@ En proyecto (mantenimiento prácticamente suspendido):
     
 0.1.0 (enero 2015)
 
-## RECONOCIMIENTOS
+## Reconocimientos
 
 **Programación**:
 - Python versión 3 (Python Software Foundation "PSF", python.org). 

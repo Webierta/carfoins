@@ -10,6 +10,7 @@ Aplicación gratuita y sin publicidad. No se utiliza ningún dato del usuario.
 
 Software de código abierto, libre de spyware, malware, virus o cualquier proceso que atente contra tu dispositivo o viole tu privacidad. Te invito a colaborar con un [donativo vía PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=986PSAHLH6N4L) para mantener y mejorar este programa y desarrollar nuevas aplicaciones.
 
+
 ## Licencia
 
 CARFOIN$: Gestión de una Cartera de Fondos de Inversión. Copyright© 2015 Jesús Cuerda Villanueva. All rights reserved.
@@ -25,6 +26,7 @@ Este programa es software libre: usted puede redistribuirlo y / o modificarlo ba
 > «This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.»
 
 > «You should have received a copy of the GNU General Public License along with this program (LICENSE.txt). If not, see http://www.gnu.org/licenses/.»
+
 
 ## Responsabilidad legal
 
