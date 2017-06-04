@@ -1,5 +1,7 @@
 # Carfoin$
 
+CARFOIN$: Gestión de una Cartera de Fondos de Inversión. También disponible en la [web del proyecto](http://www.carfoins.esy.es)
+
 ![Carfoin$ Logo](http://www.carfoins.esy.es/data/_uploaded/image/carfoins.gif)
 
 CARFOIN$© es una sencilla utilidad multiplataforma para la gestión de múltiples Carteras de Fondos de Inversión. Permite crear fácilmente Carteras personalizadas y seguir su evolución. Opera rápidamente con los Fondos para consultar, actualizar y archivar sus valores liquidativos.
