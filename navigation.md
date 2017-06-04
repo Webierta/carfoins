@@ -1,7 +1,7 @@
 # Carfoin$
 
 [Home](index.md)
-[Ayuda](about.md)
+[Ayuda](ayuda.md)
 [Autor](autor.md)
 [Desarrollo](desarrollo.md)
 [Capturas](capturas.md)

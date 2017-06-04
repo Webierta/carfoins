@@ -1,4 +1,6 @@
-# Requisitos
+# Ayuda
+
+## Requisitos
 
 **Conexión a internet** (para añadir fondos y actualizar sus valores).
 
@@ -17,7 +19,7 @@ Puedes comprobar si has instalado 'tkinter' correctamente ejecutando cualquiera 
 
 Cualquiera de ellos debería abrir una simple ventana de demostración de la interfaz gráfica de tkinter.
             
-# Ejecución
+## Ejecución
 
 1. Comprueba que tu sistema cumple los [requisitos](https://webierta.github.io/carfoins/#!ayuda.md#Requisitos) necesarios para la correcta ejecución de la aplicación.
 2. [Descarga](https://webierta.github.io/carfoins/#!descarga.md) el archivo comprimido zip con la última versión.
@@ -27,13 +29,13 @@ Cualquiera de ellos debería abrir una simple ventana de demostración de la int
     - en linux: **python3 carfoins.py**. También funciona con: ./carfoins.py
     - en Windows, dependiendo de la versión y de la configuración: carfoins.py o bien python carfoins.py
 
-# Uso
+## Uso
 
 La aplicación pretende ofrecer una interfaz gráfica clara y de fácil manejo, por lo que estas instrucciones pueden resultar innecesarias a muchos usuarios.
 
 El programa se divide en dos ventanas principales:
 
-## VENTANA DE INICIO. CARTERAS
+### VENTANA DE INICIO. CARTERAS
 
 El programa arranca en esta ventana que a través de distintas pestañas (Ayuda, Licencia y Créditos) ofrece información básica sobre la aplicación.
 
@@ -44,11 +46,11 @@ Para utilizar las **copias de seguridad** (IMPORTANTE: las versiones 0.4.2 y sup
 - Selecciona una Cartera y presiona el botón «Backup»: automáticamente se crea una copia con el mismo nombre que se guarda en el directorio carfoins/backup. Si existiera una copia previa con el mismo nombre, el archivo nuevo elimina el anterior.
 - Para restaurar una copia, cierra la aplicación y copia el archivo creado en la carpeta backup en la carpeta principal carfoins. Después, abre la aplicación y desde el panel principal crea una Carpeta con el mismo nombre (sin la extensión db) y ya puedes acceder a los Fondos de esa Cartera. 
 
-## VENTANA DE FONDOS
+### VENTANA DE FONDOS
 
 Desde aquí se opera con los Fondos de las Carteras y se muestran algunos índices de rentabilidad.
 
-### MERCADO
+#### MERCADO
 
 Herramienta para configurar la Cartera añadiendo y quitando Fondos.
 
@@ -56,7 +58,7 @@ Para incorporar **nuevos Fondos** necesitas el código ISIN (International Secur
 
 Desde Mercado también puedes **eliminar los Fondos** que ya no te interesa seguir en tu Cartera. Por ejemplo, quizá quieres eliminar los Fondos que incluye el programa a modo de demostración. Puedes seleccionarlos todos y eliminarlos conjuntamente. La acción de «Eliminar» permite acciones en bloque seleccionando más de un Fondo.
 
-### CARTERA
+#### CARTERA
 
 Herramienta para «Actualizar», «Consultar» y «Borrar» los fondos de la Cartera seleccionados (las acciones de Actualizar y Borrar permiten acciones en bloque seleccionando más de un Fondo).
 
@@ -67,7 +69,7 @@ Herramienta para «Actualizar», «Consultar» y «Borrar» los fondos de la Car
     * **Exportar**: Exporta la tabla del histórico a un archivo csv. El archivo, que recibe el nombre del código ISIN del Fondo, contine el histórico de valores y se guarda en carfoins/backup. Se puede abrir con una hoja de cálculo (LibreOffice, Excel,...). Para asegurarte la máxima compatibilidad es conveniente utilizar caracteres Unicode (UTF-8), seleccionar 'Coma' como separador de columnas y 'Dobles comillas' como delimitador de texto.
 - **«Borrar»** los valores guardados. Puedes seleccionar uno o varios Fondos de Inversión para borrar los valores guardados. Los archivos de esos Fondos quedarán vacíos y los datos se perderán definitivamente pero los Fondos continuarán en tu Cartera. Desde Mercado puedes eliminar el Fondo y su valores simultáneamente.
 
-# Atajos de Teclado
+## Atajos de Teclado
 
 La aplicación pretende que todas las funciones y ventanas sean accesibles indistintamente con el ratón y a través de atajos del teclado. En Windows algunos atajos de teclado no funcionan hasta que la ventana recibe el foco con el ratón. Se utilizan las combinaciones de teclas comunes:
 
