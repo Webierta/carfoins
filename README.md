@@ -2,7 +2,7 @@
 
 ![Carfoin$ Logo](http://www.carfoins.esy.es/data/_uploaded/image/carfoins.gif)
 
-CARFOIN$: Gestión de una Cartera de Fondos de Inversión. Visita la [web del proyecto](http://www.carfoins.esy.es)
+CARFOIN$: Gestión de una Cartera de Fondos de Inversión. Más información en la [web original del proyecto](http://www.carfoins.esy.es) y en la nueva [Wiki](https://webierta.github.io/carfoins/#!index.md).
 
 Copyright© 2015 Jesús Cuerda Villanueva. Software libre bajo Licencia Pública General de GNU (GPL) versión 3.
 
